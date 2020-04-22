@@ -19,5 +19,6 @@
 		- DOM
 		- JAXB
 	- XPATH, SXLT
+	- [Validation](../master/xml-validation-maven)
 8. Многонишково програмиране
 9. Java Swing
