@@ -1,0 +1,3 @@
+<!ELEMENT student (name, class)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT class (#PCDATA)>

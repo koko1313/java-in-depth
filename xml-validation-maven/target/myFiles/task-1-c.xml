@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootElement
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance"
+	xsd:noNamespaceSchemaLocation="SchemaXSD.xsd"
+	path=""
+	name="">
+
+	<filter>
+		<include path="" />
+		
+		<include-set>
+			<path name="" />
+		</include-set>
+		
+		<exclude path="" />
+		
+		<exclude-set>
+			<path name="" />
+		</exclude-set>
+	</filter>
+
+</rootElement>

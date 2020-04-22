@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: kaloy
+Build-Jdk: 12.0.2
+Main-Class: com.my.xml_validation_tasks.App
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employees>
+    <employee>
+        <name>Иван</name>
+        <salary>897</salary>
+    </employee>
+
+    <employee>
+        <name>Гошо</name>
+        <salary>255</salary>
+    </employee>
+
+    <employee>
+        <name>Мария</name>
+        <salary>3456</salary>
+    </employee>
+</employees>

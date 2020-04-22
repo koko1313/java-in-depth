@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    elementFormDefault="qualified" xmlns="my:namespace"
+    targetNamespace="my:namespace">
+
+    <xs:element name="students" />
+
+    <xs:element name="student">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string" />
+                <xs:element name="class" type="xs:integer" />
+            </xs:sequence>
+
+            <xs:attribute name="id" type="xs:integer" use="required" />
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

@@ -1,0 +1,10 @@
+John	21
+John	23
+Jack	22
+Robert	24
+Jess	21
+Ann	20
+Nick	21
+Alice	20
+John	21
+9

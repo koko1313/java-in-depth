@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students xmlns="my:namespace"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="my:namespace students.xsd">
+
+    <student id="1">
+        <name>Stoyan</name>
+        <class>10</class>
+    </student>
+
+    <student id="2">
+        <name>Pesho</name>
+        <class>8</class>
+    </student>
+
+    <student id="3">
+        <name><![CDATA[<test>content!</test>]]></name>
+        <class>12</class>
+    </student>
+
+    <student id="4">
+        <name>Anna</name>
+        <class>5</class>
+    </student>
+
+    <student id="5">
+        <name>Iliyan</name>
+        <class>12</class>
+    </student>
+</students>
